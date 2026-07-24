@@ -61,11 +61,11 @@ Answers the foundational PUBG combat question: **which weapon yields a lower tim
 
 ## Media Preview
 
-![PUBG TTK Calculator Main Dashboard Interface](assets/ttk-calculator-preview.png)
+![PUBG TTK Calculator Main Dashboard Interface](pubg-ttk/assets/ttk-calculator-preview.png)
 
 *Figure 1: Side-by-side weapon loadout comparison with dynamic TTK curve and real-time range inspection.*
 
-https://github.com/user-attachments/assets/ttk-comparison-demo.mp4
+[https://github.com/user-attachments/assets/ttk-comparison-demo.mp4](https://github.com/Nihara-D/pubg-ttk-calculator/raw/main/pubg-ttk/assets/ttk-comparison-demo.mp4)
 
 *Video 1: Demonstration of dynamic loadout selection, parameter adjustments, and live graph updates.*
 
