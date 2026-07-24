@@ -193,4 +193,16 @@ pubg-ttk-calculator/
 └── package.json
 
 ```
-Nihara Randini - shniharard@gmail.com
+## Author & Maintainer
+
+<div align="center">
+
+<img src="pubg-ttk/assets/235249-gomaguns.gif" alt="PUBG Tactical Mascot" width="120" />
+
+<br/>
+
+**Nihara Randini**  
+[![Email](https://img.shields.io/badge/Email-shniharard%40gmail.com-d97706?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shniharard@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Nihara--D-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nihara-D)
+
+</div>
